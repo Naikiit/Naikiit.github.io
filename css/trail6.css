@@ -2,7 +2,7 @@ body{
   font-family: sans-serif;
   margin:0;
   padding:0;
-background:url("file:///C:/Users/NARASIMHA/Desktop/wb1/file/IMG_20191229_131117_253.jpg");
+background:url("file:///C:/Users/NARASIMHA/Desktop/wb1/file/Snapchat-1780119552.jpg");
 }
 header{
   font-weight:bold;
@@ -161,7 +161,7 @@ header{
 #showcase h1{
   margin-top:40px;
 }
-.container img{
+.overlay img{
   width:50%;
   height:75%;
 }
